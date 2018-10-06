@@ -1,4 +1,4 @@
-# matlab_release_party
+# matlab2018b_release_party
 
 Kom bli med å feire matlab2018b!
 
