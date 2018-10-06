@@ -1,0 +1,23 @@
+party= "Øl og sprit og god s"
+string* party_address=tormodsgate3b[4]
+*party_address=party
+
+
+void entrance()
+{
+  if number_of_beers<6 && liqour < 1 litre || bottle_of_wine==0 {
+   print("Go home and bring more alcohol");
+  }
+  else{
+    print("Kjøøøøør");
+  }
+}
+
+int when_to_arrive(Person& p)
+  if p->kostbar{
+    p->fashionably_late=1;  
+    return 2030;
+  }
+  else{
+  return 1900;
+  }
