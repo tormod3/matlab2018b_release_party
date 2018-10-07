@@ -21,3 +21,10 @@ int when_to_arrive(Person& p)
   else{
   return 1900;
   }
+
+ void attendance(Person& p)
+ {
+   if p->attendance_status=="Maybe"{
+     p->invitation=withdrawn;
+    }
+}
